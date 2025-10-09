@@ -17,7 +17,9 @@
 <p align="left">
 </p>
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXA3ZWs0aGN1bm9qZWRodjEyemdoNzIya2ZhcWFwdHRkNmJnbDhibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif))
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXA3ZWs0aGN1bm9qZWRodjEyemdoNzIya2ZhcWFwdHRkNmJnbDhibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="40" height="40" />
+
+
 
 
 
