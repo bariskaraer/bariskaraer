@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bariskaraerx@gmail.com**
 
-- ⚡ Fun fact **I do random stuff**
+- ⚡ Fun fact **Right now, there are over 10 billion connected devices, while the human population is around 8 billion. That means there are more computers than people in the world!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
