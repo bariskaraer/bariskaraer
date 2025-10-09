@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Baris</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">A passionate computer engineer with 5 years of experience</h3>
 
-- 🔭 I’m currently working on **Hermes**
+- 🔭 I’m currently working on **Hermes Terminal**
 
-- 🌱 I’m currently learning **different frameworks**
+- 🌱 I’m currently learning **Smart Contracts and Audits: Solidity, Foundry, Hardhat**
 
 - 🤝 I’m looking for help with **Secret Project**
 
-- 💬 Ask me about **react, .net, c#**
+- 💬 Ask me about **React, .Net, C#**
 
 - 📫 How to reach me **bariskaraerx@gmail.com**
 
@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXA3ZWs0aGN1bm9qZWRodjEyemdoNzIya2ZhcWFwdHRkNmJnbDhibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXA3ZWs0aGN1bm9qZWRodjEyemdoNzIya2ZhcWFwdHRkNmJnbDhibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="120" height="120" />
 
 
 
