@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Hermes Terminal**
 
-- 🌱 I’m currently learning **Smart Contracts and Audits: Solidity, Foundry, Hardhat**
-
-- 🤝 I’m looking for help with **Secret Project**
+- 🌱 I’m currently learning **RUST, Quant Trading, Smart Contracts and Audits: Solidity, Foundry, Hardhat**
 
 - 💬 Ask me about **React, .Net, C#**
 
