@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baris</h1>
-<h3 align="center">A passionate computer engineer with 5 years of experience</h3>
+<h3 align="center">A passionate computer engineer with over 5 years of experience</h3>
 
 - 🔭 I’m currently working on **Hermes Terminal**
-
-- 🌱 I’m currently learning **RUST, Quant Trading, Smart Contracts and Audits: Solidity, Foundry, Hardhat**
-
-- 💬 Ask me about **React, .Net, C#**
 
 - 📫 How to reach me **bariskaraerx@gmail.com**
 
